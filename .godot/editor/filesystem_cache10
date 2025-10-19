@@ -1,6 +1,11 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1760799691
+::res://::1760832799
 godot_pacman.infogen.txt::TextFile::-1::1760711829::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::5805450897839009691::1760799567::1760799691::1::::<><><>0<>0<>1577b39d4acb6d4cc6976f1bcdf5e82a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 pac-man_arcade_flyer.jpg::CompressedTexture2D::770702753111774185::1760714081::1760799691::1::::<><><>0<>0<>eca2083cfd1cbb6736b83ff11bbf7f87<>res://.godot/imported/pac-man_arcade_flyer.jpg-06cd6d67cb379cce47bbc66caf26dc8f.ctex::
+pacman.png::CompressedTexture2D::6034191266227434414::1760832799::1760832812::1::::<><><>0<>0<>269ba8e2fec6e5877339231788b81221<>res://.godot/imported/pacman.png-5bdbe9b27e420cef459c550ddf3283b0.ctex::
+pac_man_spritesheet.jpg::CompressedTexture2D::8706242252019674402::1760832633::1760832812::1::::<><><>0<>0<>a3fcdc0eb5ad86a52a7331ec82f8aea0<>res://.godot/imported/pac_man_spritesheet.jpg-572eb65e7905c1297f36e5444c29de33.ctex::
 README.md::TextFile::-1::1760799305::0::1::::<><><>0<>0<><>::
+::res://scenes/::1760832034
+main.tscn::PackedScene::3685559798881161138::1760831729::0::1::::<><><>0<>0<><>::
+pacman.tscn::PackedScene::1014902418267158945::1760831944::0::1::::<><><>0<>0<><>::
